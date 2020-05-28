@@ -1,0 +1,16 @@
+{
+  "name": "verifierad",
+  "version": "0.0.0",
+  "description": "A validation lib written in typescript. Cover a lot (but not dates, never dates).",
+  "main": "index.ts",
+  "repository": "git@github.com:EricIO/verifierad.git",
+  "author": "Eric Skoglund <eric@pagefault.se>",
+  "license": "MPL-2.0",
+  "private": false,
+  "dependencies": {
+    "@types/jest": "^25.2.3",
+    "jest": "^26.0.1",
+    "ts-jest": "^26.0.0",
+    "typescript": "^3.9.3"
+  }
+}
